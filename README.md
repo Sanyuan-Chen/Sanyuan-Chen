@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Sanyuan Chen 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanyuan-chen-08a495167/)](https://www.linkedin.com/in/sanyuan-chen-08a495167/)
+[![Scholar Badge](https://img.shields.io/badge/-Google_scholar-%230288D1?style=flat-square&logo=googlescholar&logoColor=white&link=https://scholar.google.com/citations?user=XrZRIy0AAAAJ)](https://scholar.google.com/citations?user=XrZRIy0AAAAJ)
+
 
 - 🎓 I’m currently a Ph.D. student at Harbin Institute of Technology and a research intern in Microsoft Research Asia.
 - 🌱 I’m currently studying self-supervised learning for speech processing, speech separation, and natural language processing.
@@ -28,4 +32,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 📭 More about me: 
 -->
