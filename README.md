@@ -1,8 +1,9 @@
 ### Hi, I'm Sanyuan Chen 👋
 
 [![GitHub](https://img.shields.io/badge/GitHub-gray?style=flat-square&logo=github&logoColor=white)](https://github.com/Sanyuan-Chen)
-[![Scholar Badge](https://img.shields.io/badge/Google_scholar-%230288D1?style=flat-square&logo=googlescholar&logoColor=white&link=https://scholar.google.com/citations?user=XrZRIy0AAAAJ)](https://scholar.google.com/citations?user=XrZRIy0AAAAJ)
+[![Scholar Badge](https://img.shields.io/badge/Google-%230288D1?style=flat-square&logo=googlescholar&logoColor=white&link=https://scholar.google.com/citations?user=XrZRIy0AAAAJ)](https://scholar.google.com/citations?user=XrZRIy0AAAAJ)
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanyuan-chen-08a495167/)](https://www.linkedin.com/in/sanyuan-chen-08a495167/)
+[![Zhihu](https://img.shields.io/badge/Zhihu-%230288D1?style=flat-square&logo=zhihu&logoColor=white)](https://www.zhihu.com/people/mypleasure)
 [![Gmail](https://img.shields.io/badge/Email-8B89CC?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:t-schen@microsoft.com)
 
 
