@@ -14,7 +14,7 @@
 
    - [Jan 2023] [**VALL-E**](https://arxiv.org/abs/2301.02111), a language modeling approach for text to speech synthesis, achieves **state-of-the-art** zero-shot TTS performance and emerges **in-context learning** capabilities. See https://aka.ms/valle for demos.
    
-   - [Dec 2022] [**BEATs**](https://arxiv.org/abs/2212.09058), a discrete label prediction based audio pre-training framework, ranks **1st** in the [AudioSet](https://paperswithcode.com/sota/audio-classification-on-audioset) and [ESC-50](https://paperswithcode.com/sota/audio-classification-on-esc-50) audio classification leaderboards. We released the [codes and pre-trained models](https://aka.ms/beats).
+   - [Dec 2022] [**BEATs**](https://arxiv.org/abs/2212.09058), a discrete label prediction based audio pre-training framework, ranks **1st** in the [AudioSet](https://paperswithcode.com/sota/audio-classification-on-audioset) and [ESC-50](https://paperswithcode.com/sota/audio-classification-on-esc-50) leaderboards. We released the [codes and pre-trained models](https://aka.ms/beats).
    
    - [Sep 2022] [**SpeechLM**](https://arxiv.org/abs/2209.15329), a textual enhanced speech pre-training model, achieves **16%** relative WER reduction over data2vec with only **10K** text sentences on the LibriSpeech speech recognition benchmark.  We released the [codes and pre-trained models](https://aka.ms/speechlm).
    
