@@ -16,6 +16,8 @@
    
    - [Dec 2022] [**BEATs**](https://arxiv.org/abs/2212.09058), a discrete label prediction based audio pre-training framework, ranks **1st** in the [AudioSet](https://paperswithcode.com/sota/audio-classification-on-audioset), [Balanced AudioSet](https://paperswithcode.com/sota/audio-classification-on-balanced-audio-set) and [ESC-50](https://paperswithcode.com/sota/audio-classification-on-esc-50) leaderboards. We released the [codes and pre-trained models](https://aka.ms/beats).
    
+   - [Nov 2022] [**WavLM**](https://arxiv.org/abs/2110.13900) is now available on [TorchAudio](https://pytorch.org/audio/main/index.html). Try to use it [here](https://arxiv.org/abs/2110.13900).
+   
    - [Sep 2022] [**SpeechLM**](https://arxiv.org/abs/2209.15329), a textual enhanced speech pre-training model, achieves **16%** relative WER reduction over data2vec with only **10K** text sentences on the LibriSpeech speech recognition benchmark.  We released the [codes and pre-trained models](https://aka.ms/speechlm).
    
    - [Sep 2022] [**WavLM**](https://ieeexplore.ieee.org/document/9814838) is published in IEEE Journal of Selected Topics in Signal Processing.
