@@ -12,6 +12,8 @@
 - 🌱 My research interests include self-supervised learning, speech and audio processing and spoken language processing. 
 - 📄 My research highlights: 
 
+   - [Mar 2023] [**VALL-E X**](https://arxiv.org/abs/2303.03926), a cross-lingual version of VALL-E that can help **anyone** speak a foreign language in their own voice **without an accent**. See https://aka.ms/vallex for demos.
+
    - [Jan 2023] [**VALL-E**](https://arxiv.org/abs/2301.02111), a language modeling approach for text to speech synthesis, achieves **state-of-the-art** zero-shot TTS performance and emerges **in-context learning** capabilities. See https://aka.ms/valle for demos.
    
    - [Dec 2022] [**BEATs**](https://arxiv.org/abs/2212.09058), a discrete label prediction based audio pre-training framework, ranks **1st** in the [AudioSet](https://paperswithcode.com/sota/audio-classification-on-audioset), [Balanced AudioSet](https://paperswithcode.com/sota/audio-classification-on-balanced-audio-set) and [ESC-50](https://paperswithcode.com/sota/audio-classification-on-esc-50) leaderboards. We released the [codes and pre-trained models](https://aka.ms/beats).
