@@ -12,6 +12,8 @@
 - 🌱 My research interests include self-supervised learning, speech and audio processing and spoken language processing. 
 - 📄 My research highlights: 
 
+   - [Apr 2023] [**VALL-E**](https://arxiv.org/abs/2301.02111) wins the [UNESCO Netexplo Innovation Award 2023](https://twitter.com/Netexplo/status/1648330944632193024) (**top 10** out of over 3000 innovations of the year).
+
    - [Mar 2023] [**VALL-E X**](https://arxiv.org/abs/2303.03926), a cross-lingual version of VALL-E that can help **anyone** speak a foreign language in their own voice **without an accent**. See https://aka.ms/vallex for demos.
 
    - [Jan 2023] [**VALL-E**](https://arxiv.org/abs/2301.02111), a language modeling approach for text to speech synthesis, achieves **state-of-the-art** zero-shot TTS performance and emerges **in-context learning** capabilities. See https://aka.ms/valle for demos.
