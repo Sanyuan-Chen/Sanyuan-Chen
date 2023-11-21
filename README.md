@@ -12,6 +12,8 @@
 - 🌱 My research interests include self-supervised learning, speech and audio processing and spoken language processing. 
 - 📄 My research highlights: 
 
+   - [Nov 2023] [**VALL-E**](https://arxiv.org/abs/2301.02111) produced the [AI Audiobook of Impromptu: Amplifying Our Humanity Through AI](https://link.chtbl.com/impromptuaudiobook) with an “AI Reid” voice.
+
    - [Apr 2023] [**VALL-E**](https://arxiv.org/abs/2301.02111) wins the [UNESCO Netexplo Innovation Award 2023](https://twitter.com/Netexplo/status/1648330944632193024) (**top 10** out of over 3000 innovations of the year).
    
    - [Apr 2023] [**BEATs**](https://arxiv.org/abs/2212.09058) is accepted by ICML 2023 as an **oral** paper.
